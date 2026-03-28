@@ -8,18 +8,23 @@ User Login
 User Profile Update
 
 These tests simulate real user behavior and validate the critical authentication and profile management flows.
+
 📁 Project Structure
 .
-├── pages/              # Page Object classes
-├── tests/              # Test specification files
+├── pages/              
+├── tests/              
 ├── playwright.config.ts
 ├── package.json
+
+
 ⚙️ Prerequisites
 
 Make sure you have installed:
 
 Node.js (v16 or higher)
 npm (comes with Node)
+
+
 🚀 Setup & Installation
 
 Clone the repository:
