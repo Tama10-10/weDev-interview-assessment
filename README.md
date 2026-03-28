@@ -35,9 +35,11 @@ cd <project-folder>
 Install dependencies:
 
 npm install
+
 Install Playwright browsers:
 
 npx playwright install
+
 ▶️ How to Execute the Tests
 
 Run all tests:
