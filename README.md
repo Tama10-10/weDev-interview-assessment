@@ -25,6 +25,7 @@ These tests simulate real user behavior and validate the critical authentication
 Make sure you have installed:
 
 Node.js (v16 or higher)
+
 npm (comes with Node)
 
 
@@ -33,6 +34,7 @@ npm (comes with Node)
 Clone the repository:
 
 git clone <your-repository-url>
+
 cd <project-folder>
 
 Install dependencies:
