@@ -3,8 +3,11 @@
 This project contains end-to-end UI automation tests built with TypeScript and Playwright for core user flows of a web application.
 
 ✅ Automated Test Scenarios
+
 User Registration
+
 User Login
+
 User Profile Update
 
 These tests simulate real user behavior and validate the critical authentication and profile management flows.
